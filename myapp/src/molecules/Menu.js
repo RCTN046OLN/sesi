@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PropTypes from "prop-types";
 import Label from "../atoms/Label";
 
 class Menu extends Component {
