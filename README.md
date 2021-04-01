@@ -1,49 +1,31 @@
-# Sesi 5
+# Sesi 6
 
 Materials:
 
-- [Data flow in React (Recall)](#data-flow-in-react-recall)
-- [State](#state)
-- [Props](#props)
-- [Hubungan State dan Props](#hubungan-state-dan-props)
-- [PropsTypes](#propstypes)
-- [Atomic Design](#atomic-design)
+- [Stateful](#stateful)
+- [Stateless](#stateless)
+- [React Fragment](#react-fragment)
+- [React Hooks](#react-hooks)
+  - [useState](#useState)
+  - [useEffect](#useEffect)
 
 ---
 
 &nbsp;
 
-## Data flow in React (recall)
+## Stateful
 
 &nbsp;
 
-## State
-
-- Mendefinisikan State
-- Membaca State
-- Menulis State
+## Stateless
 
 &nbsp;
 
-## Props
-
-- Kirim props data
-- Kirim props function
+## React Fragment
 
 &nbsp;
 
-## Hubungan State dan Props
+## React Hooks
 
-&nbsp;
-
-## PropsTypes
-
-&nbsp;
-
-## Atomic Design
-
-- Level Atom
-- Level Molekul
-- Level Organisme
-- Level Template
-- Level Level Page
+- useState
+- useEffect
