@@ -1,31 +1,53 @@
-# Sesi 6
+# Sesi 7
 
 Materials:
 
-- [Stateful](#stateful)
-- [Stateless](#stateless)
-- [React Fragment](#react-fragment)
-- [React Hooks](#react-hooks)
-  - [useState](#useState)
-  - [useEffect](#useEffect)
+- [Component Lifecycle](#component-lifecycle)
+  - [Mounting](#mounting)
+  - [Updating](#updating)
+  - [Unmounting](#unmounting)
+  - [Error Handler](#error-handler)
+- [Fetch Data](#fetch-data)
 
 ---
 
-&nbsp;
+## Component Lifecycle
 
-## Stateful
+- https://reactjs.org/docs/react-component.html
 
-&nbsp;
+### Mounting
 
-## Stateless
-
-&nbsp;
-
-## React Fragment
+- constructor()
+- render()
+- componentDIdMount()
 
 &nbsp;
 
-## React Hooks
+### Updating
 
-- useState
-- useEffect
+- componentWillReceiveProps(nextProps)
+- shouldComponentUpdate(nextProps, nextState)
+- componentWillUpdate(nextProps, nextState)
+- componentDidUpdate(prevProps, prevState)
+
+&nbsp;
+
+### Unmounting
+
+- componentWillUnmount()
+
+&nbsp;
+
+### Error Handler
+
+- componentDidCatch(error, info)
+  - https://reactjs.org/docs/react-component.html#componentdidcatch
+
+&nbsp;
+
+## Fetch Data
+
+- axios
+  - https://www.npmjs.com/package/axios
+- fetch
+  - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
