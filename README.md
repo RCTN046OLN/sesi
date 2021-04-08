@@ -1,53 +1,41 @@
-# Sesi 7
+# Sesi 8
 
 Materials:
 
-- [Component Lifecycle](#component-lifecycle)
-  - [Mounting](#mounting)
-  - [Updating](#updating)
-  - [Unmounting](#unmounting)
-  - [Error Handler](#error-handler)
-- [Fetch Data](#fetch-data)
+- [Styiling Options](#styiling-options)
+- [CSS Library](#css-library)
+- [UI Framework](#ui-framework)
 
 ---
 
-## Component Lifecycle
+&nbsp;
 
-- https://reactjs.org/docs/react-component.html
+## Styiling Options
 
-### Mounting
-
-- constructor()
-- render()
-- componentDIdMount()
+- Global CSS
+  - https://getbootstrap.com/docs/5.0/getting-started/introduction/
+- CSS Module
+- Inline CSS
 
 &nbsp;
 
-### Updating
+## CSS Library
 
-- componentWillReceiveProps(nextProps)
-- shouldComponentUpdate(nextProps, nextState)
-- componentWillUpdate(nextProps, nextState)
-- componentDidUpdate(prevProps, prevState)
-
-&nbsp;
-
-### Unmounting
-
-- componentWillUnmount()
+- styled-component
+  - https://github.com/styled-components/styled-components
+- Emotion
+  - https://emotion.sh/docs/introduction
 
 &nbsp;
 
-### Error Handler
+## UI Framework
 
-- componentDidCatch(error, info)
-  - https://reactjs.org/docs/react-component.html#componentdidcatch
-
-&nbsp;
-
-## Fetch Data
-
-- axios
-  - https://www.npmjs.com/package/axios
-- fetch
-  - https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+- React Boostrap
+  - https://react-bootstrap.github.io/
+- Material UI
+  - https://material-ui.com/#/
+- Semantic UI React
+- Ant Design
+- Carbon Component
+- Blueprint
+- Bulma
