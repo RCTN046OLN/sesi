@@ -1,41 +1,33 @@
-# Sesi 8
+# Sesi 9
 
 Materials:
 
-- [Styiling Options](#styiling-options)
-- [CSS Library](#css-library)
-- [UI Framework](#ui-framework)
+- [Basic](#basic)
+- [URL Paramaters](#url-paramaters)
+- [Custom Link](#custom-link)
+- [Redirect](#redirect)
+- [Route render methods](#route-render-methods)
+- [Hooks](#hooks)
 
 ---
 
 &nbsp;
 
-## Styiling Options
+## Basic
 
-- Global CSS
-  - https://getbootstrap.com/docs/5.0/getting-started/introduction/
-- CSS Module
-- Inline CSS
+## URL Paramaters
 
-&nbsp;
+## Custom Link
 
-## CSS Library
+## Redirect
 
-- styled-component
-  - https://github.com/styled-components/styled-components
-- Emotion
-  - https://emotion.sh/docs/introduction
+## Route render methods
 
-&nbsp;
+- `<Route component>`
+- `<Route render>`
+- `<Route children>` function
 
-## UI Framework
+## Hooks
 
-- React Boostrap
-  - https://react-bootstrap.github.io/
-- Material UI
-  - https://material-ui.com/#/
-- Semantic UI React
-- Ant Design
-- Carbon Component
-- Blueprint
-- Bulma
+- useHistory
+- useParams
