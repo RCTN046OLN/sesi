@@ -1,48 +1,37 @@
-# Sesi 10 - State Management with Redux
+# Sesi 11 (Redux Middleware)
 
 Materials:
 
-- [Intro redux](#intro-redux)
-- [When do I Need Redux?](#when-do-i-need-redux)
-- [Redux Principles](#redux-principles)
-- [Redux Basic](#redux-basic)
-- [Connecting Redux With React](#connecting-redux-with-react)
-
----
-
-## Intro redux
-
-- What is redux?
+- [Apa itu Middleware?](#apa-itu-middleware)
+- [Kegunaan middlware di Redux?](#kegunaan-middlware-di-redux)
+- [Beberapa Middleware Redux](#bebrapa-middleware-redux)
+- [Fetch API in Redux demo](#fetch-api-in-redux-demo)
+- [Login Flow React Redux demo](#login-flow-react-redux-demo)
+- [Combine Reducer](#combine-reducer)
 
 &nbsp;
 
-## When do I Need Redux?
-
-- Complex data flow
-- Many actions
-- Same data use in multiple places
+## Apa itu Middleware?
 
 &nbsp;
 
-## Redux Principles
-
-- Single source of truth
-- State is Read-only
-- Changes are made with pure functions
+## Kegunaan Middlware di Redux
 
 &nbsp;
 
-## Redux Basic
+## Beberapa Middleware Redux
 
-- Store
-- Action
-- Reducer
+- `redux-logger`
+- `redux-thunk`
 
 &nbsp;
 
-## Connecting Redux With React
+## Fetch API in Redux (demo)
 
-- Installation
-- Provider
-- Connect
-- Hooks
+&nbsp;
+
+## Login Flow React Redux (demo)
+
+&nbsp;
+
+## Combine Reducer
