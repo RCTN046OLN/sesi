@@ -7,7 +7,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const dispatch = useDispatch();
   const { isLoginSuccess, isLoginError, isLoginPending } = useSelector(
-    (state) => state
+    (state) => state.authReducer
   );
 
   const handleEmailChange = (e) => {

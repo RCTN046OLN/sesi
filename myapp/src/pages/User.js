@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 const User = () => {
   const dispatch = useDispatch();
-  const users = useSelector((state) => state.users);
+  const users = useSelector((state) => state.userReducer.users);
 
   const handleGetUsers = () => {
     dispatch(fetchUsers());

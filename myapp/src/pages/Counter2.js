@@ -6,7 +6,7 @@ import {
 } from "../store/actions/counterAction";
 
 const Todo = () => {
-  const counter = useSelector((state) => state.counter);
+  const counter = useSelector((state) => state.counterReducer.counter);
   const dispatch = useDispatch();
 
   const handleInc = () => {
