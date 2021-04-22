@@ -1,37 +1,24 @@
-# Sesi 11 (Redux Middleware)
-
-Materials:
-
-- [Apa itu Middleware?](#apa-itu-middleware)
-- [Kegunaan middlware di Redux?](#kegunaan-middlware-di-redux)
-- [Beberapa Middleware Redux](#bebrapa-middleware-redux)
-- [Fetch API in Redux demo](#fetch-api-in-redux-demo)
-- [Login Flow React Redux demo](#login-flow-react-redux-demo)
-- [Combine Reducer](#combine-reducer)
+# Sesi 2 (SSR)
 
 &nbsp;
 
-## Apa itu Middleware?
+## Server Site Rendering (SSR)
+
+- Apa itu SSR?
+- Menggunakan SSR:
+  - SEO prioritas
+  - Tidak membutuhkan banyak interaksi penguna
+  - Apikasi website
 
 &nbsp;
 
-## Kegunaan Middlware di Redux
+## Client Site Rendering (CSR)
+
+- Apa itu CRS?
+- Menggunakan CSR:
+  - SEO bukan prioritas
+  - membutuhkan banyak interaksi
+  - Webiste
 
 &nbsp;
-
-## Beberapa Middleware Redux
-
-- `redux-logger`
-- `redux-thunk`
-
-&nbsp;
-
-## Fetch API in Redux (demo)
-
-&nbsp;
-
-## Login Flow React Redux (demo)
-
-&nbsp;
-
-## Combine Reducer
+## Hello Next.js
