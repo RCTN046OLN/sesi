@@ -1,24 +1,17 @@
-# Sesi 2 (SSR)
+# Sesi 13 (Testing & Deployment)
 
-&nbsp;
+## Testing
 
-## Server Site Rendering (SSR)
+- Jest
+  - https://jestjs.io/
+- jsdom
+  - https://github.com/jsdom/jsdom
+- React Testing Library
+  - https://testing-library.com/docs/react-testing-library/intro/
+- jest-dom
+  - https://github.com/testing-library/jest-dom
 
-- Apa itu SSR?
-- Menggunakan SSR:
-  - SEO prioritas
-  - Tidak membutuhkan banyak interaksi penguna
-  - Apikasi website
+## Deployment
 
-&nbsp;
-
-## Client Site Rendering (CSR)
-
-- Apa itu CRS?
-- Menggunakan CSR:
-  - SEO bukan prioritas
-  - membutuhkan banyak interaksi
-  - Webiste
-
-&nbsp;
-## Hello Next.js
+- Heroku
+  - https://signup.heroku.com/
