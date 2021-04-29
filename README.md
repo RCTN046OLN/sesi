@@ -1,17 +1,22 @@
-# Sesi 13 (Testing & Deployment)
+# Sesi 14 (Introduce React Native)
 
-## Testing
+Materials:
 
-- Jest
-  - https://jestjs.io/
-- jsdom
-  - https://github.com/jsdom/jsdom
-- React Testing Library
-  - https://testing-library.com/docs/react-testing-library/intro/
-- jest-dom
-  - https://github.com/testing-library/jest-dom
+- [React Native CLI](#react-native-cli)
+- [Expo CLI](#expo-cli)
 
-## Deployment
+---
 
-- Heroku
-  - https://signup.heroku.com/
+&nbsp;
+
+## React Native CLI
+
+- Contoh project: `app1`
+- https://reactnative.dev/
+
+&nbsp;
+
+## Expo CLI
+
+- Contoh project: `app2`
+- https://docs.expo.io/
