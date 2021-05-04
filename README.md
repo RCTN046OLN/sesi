@@ -1,22 +1,23 @@
-# Sesi 14 (Introduce React Native)
+# Sesi 15 (Your First React Native App)
 
-Materials:
+## First Component
 
-- [React Native CLI](#react-native-cli)
-- [Expo CLI](#expo-cli)
-
----
-
-&nbsp;
-
-## React Native CLI
-
-- Contoh project: `app1`
-- https://reactnative.dev/
+- Class component
+- Functional component
+- Membuat login page
+- Event handler
+  - onChangeText
+  - onPress
 
 &nbsp;
 
-## Expo CLI
+## Styling dan mengatur layout di React Native
 
-- Contoh project: `app2`
-- https://docs.expo.io/
+- Flex
+- Flex Direction
+- Justify Content
+- Align items
+
+&nbsp;
+
+## React Native Debugging Tools
